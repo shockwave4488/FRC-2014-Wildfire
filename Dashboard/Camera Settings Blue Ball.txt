@@ -1,0 +1,4 @@
+color: blue
+Saturation: 80-85
+Hue: Max
+Luminance: 0
